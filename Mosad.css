@@ -1,0 +1,6 @@
+.abcd{
+    color: chocolate; background-color: aqua; text-align: right; text-transform: uppercase;
+}
+#abcde{
+  color: blueviolet; text-align: right; text-decoration: underline; text-transform: capitalize;
+}
